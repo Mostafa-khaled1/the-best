@@ -1129,9 +1129,6 @@ ul{
     border: 3px solid white;
     outline: 3px solid transparent;
 }
-.palns-page .plan .top {
-
-}
 .palns-page .plan.green .top {
     outline-color: var(--green-color);
 }
